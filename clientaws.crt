@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, L=CHALON SUR SAONE, O=OCR, OU=2SPM, CN=OCR CA/name=EasyRSA/emailAddress=sandrine.morey@sat-info.fr
+        Validity
+            Not Before: Dec  7 16:32:55 2020 GMT
+            Not After : Dec  5 16:32:55 2030 GMT
+        Subject: C=FR, L=CHALON SUR SAONE, O=OCR, OU=2SPM, CN=clientaws/name=EasyRSA/emailAddress=sandrine.morey@sat-info.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c0:f0:30:b9:73:40:33:fb:60:30:16:69:66:dc:
+                    1b:d2:30:a8:30:43:bf:39:fc:a9:7d:5c:42:d8:d8:
+                    96:30:7c:8c:e3:e3:56:c4:7c:be:cb:c4:d6:88:68:
+                    62:c9:ca:55:2a:1b:fd:25:63:f5:1e:06:08:9a:a7:
+                    6e:ca:ec:e0:3f:d3:ce:b2:6b:a1:03:ca:30:ac:a6:
+                    40:47:f5:80:ea:f6:07:35:d7:dc:fc:0b:a9:5c:29:
+                    ef:75:d8:a6:91:60:65:2b:23:56:0e:51:73:76:a3:
+                    f3:2f:00:be:0e:b7:2c:de:7d:e5:8e:62:47:19:c5:
+                    a6:ec:ef:e3:87:ab:94:ac:59:6f:17:4b:cf:9c:8a:
+                    98:b2:06:62:a4:6f:47:b9:2c:ed:e8:e5:92:4d:ad:
+                    e6:04:55:87:51:2e:de:7c:7b:0a:53:b4:b6:30:a7:
+                    dd:a0:f9:b2:d9:1b:77:2f:7a:ae:2a:3a:ac:96:61:
+                    da:ee:b9:51:8e:38:d8:4b:4c:63:c8:20:3f:46:e2:
+                    c8:7d:62:04:af:be:36:0e:36:d8:7a:f1:ea:6b:64:
+                    c1:aa:ef:da:85:51:c1:ec:16:9c:0b:3a:3f:40:f9:
+                    8a:61:1a:0a:e6:63:a8:bd:bb:96:0c:8d:55:27:ab:
+                    55:f1:f8:78:4e:83:11:29:93:3e:c5:72:29:a8:f3:
+                    0d:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D6:27:C8:F2:EF:64:E0:C9:5B:A2:16:87:E3:1E:0B:62:11:9A:85:C1
+            X509v3 Authority Key Identifier: 
+                keyid:F8:D3:22:2D:FF:AC:2C:B0:2B:1F:CA:2D:1F:67:9B:B6:73:0A:52:F9
+                DirName:/C=FR/L=CHALON SUR SAONE/O=OCR/OU=2SPM/CN=OCR CA/name=EasyRSA/emailAddress=sandrine.morey@sat-info.fr
+                serial:C3:5F:FC:45:08:CE:99:EE
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:clientaws
+    Signature Algorithm: sha256WithRSAEncryption
+         71:7e:ec:6d:79:1e:f0:80:c8:5b:61:52:f0:ba:a6:51:21:57:
+         e8:5f:6d:08:46:7f:80:65:ed:3a:9f:94:d3:cc:40:e9:11:cd:
+         1d:12:7c:f8:67:00:57:e0:2a:22:c4:8d:8f:c5:99:35:5a:02:
+         ef:55:34:46:6f:2f:db:f6:71:79:a6:18:e2:b6:67:10:6d:81:
+         bb:c4:c9:7e:72:fe:ab:fa:b3:74:0c:b2:c3:c2:05:ee:2a:c9:
+         e9:1f:51:8e:fd:f1:c4:77:a0:1a:37:91:68:7b:5a:ba:d6:e1:
+         82:5a:2d:68:01:95:1f:52:58:3c:f2:3f:21:72:8d:bc:19:c1:
+         e3:a2:5d:4c:40:73:2a:fc:7e:2f:88:53:11:63:99:8b:14:45:
+         88:d4:29:a2:34:f3:31:d3:a6:1c:74:68:b0:f7:e4:76:90:fb:
+         3c:25:2a:6c:21:cc:35:f4:97:10:e1:c1:12:9b:c8:2d:22:82:
+         c0:94:71:a0:27:82:eb:10:7e:87:fc:08:15:f9:0f:2f:e0:00:
+         31:4d:b7:b8:4a:bf:49:0b:33:19:73:e3:64:8a:6d:b2:97:06:
+         e0:cd:6c:c9:c9:08:7b:c0:ea:df:47:bc:c5:10:a2:e0:3d:1c:
+         e8:26:00:8d:7d:01:c8:f3:de:57:31:f9:e8:c9:11:d2:1a:ef:
+         b9:5b:e4:f8
+-----BEGIN CERTIFICATE-----
+MIIFCDCCA/CgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRlIx
+GTAXBgNVBAcTEENIQUxPTiBTVVIgU0FPTkUxDDAKBgNVBAoTA09DUjENMAsGA1UE
+CxMEMlNQTTEPMA0GA1UEAxMGT0NSIENBMRAwDgYDVQQpEwdFYXN5UlNBMSkwJwYJ
+KoZIhvcNAQkBFhpzYW5kcmluZS5tb3JleUBzYXQtaW5mby5mcjAeFw0yMDEyMDcx
+NjMyNTVaFw0zMDEyMDUxNjMyNTVaMIGWMQswCQYDVQQGEwJGUjEZMBcGA1UEBxMQ
+Q0hBTE9OIFNVUiBTQU9ORTEMMAoGA1UEChMDT0NSMQ0wCwYDVQQLEwQyU1BNMRIw
+EAYDVQQDEwljbGllbnRhd3MxEDAOBgNVBCkTB0Vhc3lSU0ExKTAnBgkqhkiG9w0B
+CQEWGnNhbmRyaW5lLm1vcmV5QHNhdC1pbmZvLmZyMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAwPAwuXNAM/tgMBZpZtwb0jCoMEO/OfypfVxC2NiWMHyM
+4+NWxHy+y8TWiGhiycpVKhv9JWP1HgYImqduyuzgP9POsmuhA8owrKZAR/WA6vYH
+Ndfc/AupXCnvddimkWBlKyNWDlFzdqPzLwC+Drcs3n3ljmJHGcWm7O/jh6uUrFlv
+F0vPnIqYsgZipG9HuSzt6OWSTa3mBFWHUS7efHsKU7S2MKfdoPmy2Rt3L3quKjqs
+lmHa7rlRjjjYS0xjyCA/RuLIfWIEr742DjbYevHqa2TBqu/ahVHB7BacCzo/QPmK
+YRoK5mOovbuWDI1VJ6tV8fh4ToMRKZM+xXIpqPMNoQIDAQABo4IBYDCCAVwwCQYD
+VR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRp
+ZmljYXRlMB0GA1UdDgQWBBTWJ8jy72TgyVuiFofjHgtiEZqFwTCByAYDVR0jBIHA
+MIG9gBT40yIt/6wssCsfyi0fZ5u2cwpS+aGBmaSBljCBkzELMAkGA1UEBhMCRlIx
+GTAXBgNVBAcTEENIQUxPTiBTVVIgU0FPTkUxDDAKBgNVBAoTA09DUjENMAsGA1UE
+CxMEMlNQTTEPMA0GA1UEAxMGT0NSIENBMRAwDgYDVQQpEwdFYXN5UlNBMSkwJwYJ
+KoZIhvcNAQkBFhpzYW5kcmluZS5tb3JleUBzYXQtaW5mby5mcoIJAMNf/EUIzpnu
+MBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDAUBgNVHREEDTALgglj
+bGllbnRhd3MwDQYJKoZIhvcNAQELBQADggEBAHF+7G15HvCAyFthUvC6plEhV+hf
+bQhGf4Bl7TqflNPMQOkRzR0SfPhnAFfgKiLEjY/FmTVaAu9VNEZvL9v2cXmmGOK2
+ZxBtgbvEyX5y/qv6s3QMssPCBe4qyekfUY798cR3oBo3kWh7WrrW4YJaLWgBlR9S
+WDzyPyFyjbwZweOiXUxAcyr8fi+IUxFjmYsURYjUKaI08zHTphx0aLD35HaQ+zwl
+KmwhzDX0lxDhwRKbyC0igsCUcaAngusQfof8CBX5Dy/gADFNt7hKv0kLMxlz42SK
+bbKXBuDNbMnJCHvA6t9HvMUQouA9HOgmAI19Acjz3lcx+ejJEdIa77lb5Pg=
+-----END CERTIFICATE-----
